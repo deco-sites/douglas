@@ -1,0 +1,14 @@
+{
+  "name": "collections/blog/posts/84c238385c53",
+  "__resolveType": "blog/loaders/Blogpost.ts",
+  "post": {
+    "authors": [],
+    "categories": [],
+    "title": "My First Blog Post",
+    "excerpt": "What?",
+    "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11865/432951c5-0d59-4e51-8f73-7617f13294b4",
+    "date": "2024-07-16",
+    "slug": "my-first-blog-post",
+    "content": "<p>This will be the first blog post on my personal page made using Deco.cx!</p>"
+  }
+}

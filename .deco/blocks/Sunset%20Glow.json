@@ -27,6 +27,12 @@
   },
   "font": {
     "__resolveType": "website/loaders/fonts/googleFonts.ts",
-    "fonts": [{ "variations": [], "family": "Special Elite" }]
-  }
+    "fonts": [
+      {
+        "variations": [],
+        "family": "Special Elite"
+      }
+    ]
+  },
+  "mode": "light"
 }
