@@ -11,9 +11,6 @@
       "description": "This text is entirely editable, tailor it freely."
     },
     {
-      "__resolveType": "Preview /sections/BlogPost.tsx"
-    },
-    {
       "__resolveType": "Footer"
     }
   ],
