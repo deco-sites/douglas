@@ -1,0 +1,27 @@
+{
+  "name": "Personal",
+  "path": "/personal",
+  "sections": [
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "site/sections/Hero.tsx",
+      "title": "<p>Personal page</p>",
+      "description": "This is the page where you can find my personal blogs",
+      "cta": []
+    },
+    {
+      "__resolveType": "site/sections/BlogPosts.tsx",
+      "posts": {
+        "__resolveType": "blog/loaders/BlogpostList.ts",
+        "count": 4
+      },
+      "cta": {}
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}
