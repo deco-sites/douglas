@@ -83,12 +83,6 @@
     "blockType": "sections",
     "__resolveType": "site/sections/Hero.tsx"
   },
-  "/.deco/blocks/pages-Blog%2520Post%2520Page-827555.json": {
-    "name": "Blog Post Page",
-    "path": "/my-first-blog-post",
-    "blockType": "pages",
-    "__resolveType": "website/pages/Page.tsx"
-  },
   "/.deco/blocks/pages-home-5afd25174424.json": {
     "name": "Home",
     "path": "/",
@@ -137,5 +131,9 @@
   "/.deco/blocks/deco-records.json": {
     "blockType": "apps",
     "__resolveType": "site/apps/deco/records.ts"
+  },
+  "/.deco/blocks/Hero%20legal.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Hero.tsx"
   }
 }

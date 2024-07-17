@@ -7,7 +7,14 @@
     },
     {
       "__resolveType": "site/sections/Hero.tsx",
-      "title": "<p>Oi Lilica :D</p>",
+      "title": "<p>Hero legal</p>",
+      "placement": "left",
+      "cta": [
+        {
+          "href": "/personal",
+          "text": "Personal Page"
+        }
+      ],
       "description": "This text is entirely editable, tailor it freely."
     },
     {

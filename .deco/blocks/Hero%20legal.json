@@ -1,0 +1,12 @@
+{
+  "__resolveType": "site/sections/Hero.tsx",
+  "title": "<p>Hero legal</p>",
+  "description": "This text is entirely editable, tailor it freely.",
+  "cta": [
+    {
+      "href": "/personal",
+      "text": "Personal Page"
+    }
+  ],
+  "placement": "left"
+}
